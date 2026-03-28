@@ -1,4 +1,2 @@
 # Knowledge-Core
-hehe
-shark
-trying
+Projeto realizado para um trabalho de Matemática III (Empreendedorismo)
